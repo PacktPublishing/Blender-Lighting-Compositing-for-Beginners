@@ -5,3 +5,5 @@ So, to clone this repo:
 
 1. git clone https://github.com/PacktPublishing/Blender-Lighting-Compositing-for-Beginners.git
 2. git lfs pull
+3. After you have the files, check whether the size is around 2.61 Gb.
+4. Once done, move the files into one single folder and select all 3 of the files, then right click on extract here (using 7zip_
