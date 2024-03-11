@@ -1,2 +1,2 @@
-Resources/2.HDRI[[:space:]]Lighting/Example/Stylized[[:space:]]Desert[[:space:]]Town[[:space:]]hdri[[:space:]]lighting[[:space:]]Example.blend filter=lfs diff=lfs merge=lfs -text
-Resources/2.HDRI[[:space:]]Lighting/Recources/night[[:space:]]scene[[:space:]]dungeon.exr filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
